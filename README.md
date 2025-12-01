@@ -28,8 +28,9 @@ Here, we classify all the latent space based methods two categories, and sort by
   - [Visual-based](#visual-based)
 
 
-## 🤝 Contact
-We warmly welcome contributions of excellent resources you find via Pull Request. Additionally, if you want to be a contributor or find there is any mistake, please feel free to contact me at: <xinleiyu88@gmail.com>.
+## 🤝 Contributing
+We warmly welcome contributions of excellent resources you find via **pull request**. Please follow the instruction in **CONTRIBUTING.md** if you want to make one.
+Additionally, if you have any other issue, please feel free to contact at: <xinleiyu88@gmail.com>.
 
 
 
