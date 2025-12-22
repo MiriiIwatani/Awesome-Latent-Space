@@ -90,7 +90,7 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2025/11 | [Improving Latent Reasoning in LLMs via Soft Concept Mixing](https://arxiv.org/abs/2511.16885)                                                                                                                 | <img width="700" alt="image" src="img/llm/2511_scm.png">            | -                                                                                          |
 | 2025/11 | [CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning](https://arxiv.org/abs/2511.18659)                                                                                                  | <img width="700" alt="image" src="img/llm/2511_clara.png">          | [Github](https://github.com/apple/ml-clara)                                                | 
 | 2025/11 | [Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2511.21581)                                                                                                | <img width="700" alt="image" src="img/llm/2511_learning.png">       | [Github](https://github.com/apning/adaptive-latent-reasoning)                              |
-
+| 2025/12 | [Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs](https://arxiv.org/abs/2512.17206)                                                                                                | <img width="700" alt="image" src="img/llm/2512_repa.png">       | -- |
 
 ### VLM-based
 
